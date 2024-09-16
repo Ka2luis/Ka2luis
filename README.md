@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ka2luis
+- 👀 I’m interested in working with microcontrollers like ESP32 or Arduino. Im currently learning it on my own.
+- 🌱 I’m currently learning how to programm microcontrollers with Python. 
+- 💞️ I’m looking to collaborate on designing a portable MP3-Player. 
